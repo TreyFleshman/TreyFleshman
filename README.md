@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @TreyFleshman
-- 👀 I’m interested in MERN stack Web Development 
-- 🌱 I’m currently learning CIT Web Development @ IUPUI ( 2021 )
+- 👀 I’m interested in MERN stack Web Development
